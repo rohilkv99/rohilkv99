@@ -1,8 +1,7 @@
 ## Hi, I'm Rohil 👋
 
-- 🧠 Masters graduate in Computer Science from University at Buffalo, SUNY<br/>
-- 📫 How to reach me: [Email]rohilkv99@gmail.com [LinkedIn]https://www.linkedin.com/in/venkata-rohil-wardhan-kancharla-99590418b<br/>
-- ⚡ Fun fact: I like cars<br/>
+- 🧠 Master's graduate in Computer Science from University at Buffalo, SUNY<br/>
+- ⚡ Fun fact: I like cars and Food<br/>
 
 
 ## 🌐 Socials:
